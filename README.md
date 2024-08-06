@@ -17,6 +17,7 @@ class tarasbln:
         print("Welcome to my GitHub profile!")
 
 me = tarasbln()
+me.greet_visitor()
 ```
 
 :bar_chart: My focus is on data analytics within the financial sector and the development of artificial intelligence solutions. 
