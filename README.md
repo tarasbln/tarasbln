@@ -23,7 +23,7 @@ me = tarasbln()
 
 :hammer_and_wrench: Proficient in tools such as Python, SQL, Excel and Tableau, I have a proven track record in data visualization, predictive modeling, and automation of analytical processes.
 
-**Contact**
+## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FAF9F6?style=for-the-badge&logo=linkedin&logoColor=1B1B1B)](https://linkedin.com/in/taras-kostyuk)
 
